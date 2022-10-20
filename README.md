@@ -24,6 +24,6 @@ AVL - https://onlinegdb.com/ZuFHWF-Fm
 
 Red/Black - https://onlinegdb.com/ZuFHWF-Fm
 
-Vetor Ordenado - https://onlinegdb.com/Y_o_epiUOU
+Vetor Ordenado - https://onlinegdb.com/WmpWcy2My
 
 Unordered Map - https://onlinegdb.com/08suhlrMB
