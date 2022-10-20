@@ -12,7 +12,7 @@ Após a árvore ou estrutura ser formada, outros 10.000 valores aleatórios são
 
 A seguir está a tabela com os tempos de execução para pesquisa em cada uma das estruturas: 
 
-![image](https://user-images.githubusercontent.com/84454532/197075083-e39e84ea-ecd7-479e-99dd-38ce5dc8d7fe.png)
+![image](https://user-images.githubusercontent.com/84454532/197077363-f7f9891f-6293-4f82-a114-200df87ab033.png)
 
 Note que os valores na tabela são médias aritméticas de diversos testes. 
 
