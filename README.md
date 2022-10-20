@@ -8,7 +8,7 @@ A seguir está a tabela com os tempos de execução para construir cada uma das 
 
 Note que os valores na tabela são médias aritméticas de diversos testes. 
 
-Após a árvore ou estrutura ser formada, outros 10.000 valores aleatórios são utilizados como entrada para pesquisa. Se um dos valores de entrada for encontrado na estrutura, este é mostrado ao usuário e então deletado da estrutura. Após todos os elementos na entrada de pesquisa forem comparados aos da estrutura, com os encontrados sendo imprimidos e retirados, o tempo de pesquisa cronometrado é mostrado ao usuário e o programa acaba. 
+Após a árvore ou estrutura ser formada, outros 10.000 valores aleatórios são utilizados como entrada para pesquisa. Se um dos valores de entrada for encontrado na estrutura, este é mostrado ao usuário e então deletado da estrutura. Após todos os elementos na entrada de pesquisa forem comparados aos da estrutura, com os encontrados sendo imprimidos e retirados, o tempo de pesquisa cronometrado é mostrado ao usuário e o programa acaba. Por 
 
 A seguir está a tabela com os tempos de execução para pesquisa em cada uma das estruturas: 
 
