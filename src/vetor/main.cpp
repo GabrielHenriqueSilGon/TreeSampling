@@ -52,7 +52,7 @@ main ()
     clock_t begin1 = clock();
   for (int k = 0; k < 10000; k++)
     {
-      cout << " a ";
+      j = 0;
       f = rand () % 100000;
       decimal = rand () % 1000;
       f = f - (decimal/1000);
